@@ -1,0 +1,21 @@
+{
+  "name": "flow-typed-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.43.1"
+  },
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-flow": "^0.0.1"
+  }
+}
