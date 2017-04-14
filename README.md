@@ -4,7 +4,7 @@ An example project using flow + redux + react... This follows closely the redux
 guidelines.
 
 This project uses `flow-typed` to provide primitives for react-redux. See
-[TextPublisher](./containers/TextPublisher) for a detailed example which ensures types flow
+[TextPublisher](./containers/TextPublisher.js) for a detailed example which ensures types flow
 through redux to the underlying presentational component.
 
 ## Coverage
